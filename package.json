@@ -1,5 +1,5 @@
 {
-  "name": "natural",
+  "name": "natural-ff",
   "description": "Minor modifications to the original `natural` node package: General natural language (tokenizing, stemming (English, Russian, Spanish), part-of-speech tagging, sentiment analysis, classification, inflection, phonetics, tfidf, WordNet, jaro-winkler, Levenshtein distance, Dice's Coefficient) facilities for node.",
   "version": "0.6.3",
   "homepage": "https://github.com/sudotong/natural",
