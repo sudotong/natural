@@ -5,6 +5,8 @@ natural
 [![Build Status](https://travis-ci.org/NaturalNode/natural.png?branch=master)](https://travis-ci.org/NaturalNode/natural)
 [![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
 
+Forked and edited for use in Fireflies.
+
 "Natural" is a general natural language facility for nodejs. Tokenizing,
 stemming, classification, phonetics, tf-idf, WordNet, string similarity,
 and some inflections are currently supported.

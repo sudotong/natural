@@ -29,7 +29,7 @@ try {
     var Threads = require('webworker-threads');
 } catch (e) {
     // Since webworker-threads are optional, only thow if the module is found
-    if (e.code !== 'MODULE_NOT_FOUND') throw e;
+    // if (e.code !== 'MODULE_NOT_FOUND') throw e;
 }
 
 function checkThreadSupport() {
